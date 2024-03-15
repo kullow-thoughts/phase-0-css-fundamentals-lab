@@ -1,5 +1,47 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+h1{
+    text-align: center;
 }
+.hy{
+    text-align: center;
+}
+.padding{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: gray;   
+}
+#caption{
+    font-size: 15px;
+}
+#featured-property{
+    text-align: center;
+    width: 800px center;
+}
+.hello{
+    float: left;
+    background: orangered;
+    text-align: center;
+    width: 25%;
+}
+.the{
+    float: left;
+    background: orangered;
+    text-align: center;
+    width: 25%;
+}
+.help{
+    float: left;
+    background: orangered;
+    text-align: center;
+    width: 25%;
+}
+.they{
+    float: left;
+    background: orangered;
+    text-align: center;
+    width: 25%;
+}
+
+
+
+
